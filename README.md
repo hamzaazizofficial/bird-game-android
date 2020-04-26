@@ -2,6 +2,9 @@
 <img src = "https://raw.githubusercontent.com/hamzaazizofficial/bird-game-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/>
 Flappy bird clone but here i've added some cool features like select bird option.
 
+
+
+
 ## Screenshots
 
 ### 1) Game Menu Screen
